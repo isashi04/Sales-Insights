@@ -4,3 +4,4 @@ This project seeks to understand the behavior of a company's sales between 2017 
 * Understanding customer types &
 * Product types.
 
+You can check the analysis on the file "Sales Insights.ipynb" or see an shorter version on "Sales Insights.pptx".
